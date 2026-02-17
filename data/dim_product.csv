@@ -1,0 +1,35 @@
+ProductID,ProductName,Category,Brand,UnitPrice,StockQuantity
+PROD-101,Smartphone,Electronics,Generic,5356.77,123
+PROD-102,Laptop,Electronics,Quantum,1234.31,318
+PROD-103,Wireless Headphones,Electronics,Stellar,4460.68,401
+PROD-104,Smartwatch,Electronics,Prestige,3377.71,57
+PROD-105,4K TV,Electronics,BrandX,9716.4,200
+PROD-106,Bluetooth Speaker,Electronics,Stellar,936.42,446
+PROD-107,Men's T-Shirt,Apparel,BrandA,4611.28,85
+PROD-108,Women's Jeans,Apparel,BrandX,4482.23,193
+PROD-109,Running Shoes,Apparel,BrandA,3132.05,144
+PROD-110,Formal Shirt,Apparel,BrandA,9584.97,485
+PROD-111,Summer Dress,Apparel,BrandA,3177.64,99
+PROD-112,Leather Jacket,Apparel,Prestige,6450.72,386
+PROD-113,Non-Stick Pan,Home & Kitchen,Prestige,1352.91,247
+PROD-114,Blender,Home & Kitchen,BrandA,819.76,131
+PROD-115,Air Fryer,Home & Kitchen,Generic,6078.77,476
+PROD-116,Cotton Bedsheet,Home & Kitchen,BrandX,7467.8,78
+PROD-117,Robot Vacuum,Home & Kitchen,BrandX,8108.37,233
+PROD-118,Coffee Maker,Home & Kitchen,Generic,9174.18,398
+PROD-119,The Alchemist,Books,BrandX,1011.19,94
+PROD-120,Sapiens,Books,Prestige,3535.19,116
+PROD-121,Atomic Habits,Books,Generic,4434.34,343
+PROD-122,Ikigai,Books,BrandA,9853.39,492
+PROD-123,The Psychology of Money,Books,Prestige,6181.23,284
+PROD-124,A Man Called Ove,Books,Generic,4109.98,285
+PROD-125,Yoga Mat,Sports & Outdoors,BrandX,1421.21,375
+PROD-126,Dumbbell Set,Sports & Outdoors,Nova,2518.68,152
+PROD-127,Camping Tent,Sports & Outdoors,Stellar,8800.38,267
+PROD-128,Hiking Backpack,Sports & Outdoors,BrandA,8720.82,219
+PROD-129,Cricket Bat,Sports & Outdoors,Prestige,2988.5,416
+PROD-130,Vitamin C Serum,Beauty & Health,Stellar,4605.84,293
+PROD-131,Sunscreen SPF 50,Beauty & Health,Generic,7685.52,103
+PROD-132,Whey Protein,Beauty & Health,Generic,5928.59,200
+PROD-133,Organic Shampoo,Beauty & Health,BrandX,7246.8,322
+PROD-134,Electric Toothbrush,Beauty & Health,Stellar,6930.74,441
