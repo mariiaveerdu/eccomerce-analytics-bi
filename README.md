@@ -63,7 +63,7 @@ Cost per Conversion indicates the average marketing cost required to generate a 
 - Revenue and order trends over time
 - Customer segmentation analysis
 
-![Executive Overview](screenshots/Executive Overview.png)
+![Executive Overview](screenshots/Executive_Overview.png)
 
 ### Customer Analysis
 - New vs Returning Customers
