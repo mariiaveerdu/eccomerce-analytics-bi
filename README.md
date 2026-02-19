@@ -12,7 +12,8 @@ The objective of this project is to design a **comprehensive BI solution** that 
 
 ## Data Sources
 
-The analysis is based on **synthetic datasets** representing core e-commerce business domains: - **Sales & Orders**: customers, orders, order items, product returns 
+The analysis is based on **synthetic datasets** representing core e-commerce business domains:
+- **Sales & Orders**: customers, orders, order items, product returns 
 - **Products**: product catalog and inventory
 - **Marketing**: campaigns, performance metrics, and email marketing logs
 
