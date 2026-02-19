@@ -69,16 +69,19 @@ Cost per Conversion indicates the average marketing cost required to generate a 
 - New vs Returning Customers
 - Order frequency distribution
 - Revenue contribution by customer segment
+![Customers Analysis](screenshots/Customer_&_Retention_Analytics.png)
 
 ### Product Performance
 - Revenue by product category
 - Top products by revenue
 - Return rate by product category
+![Product Performance](screenshots/Products_&_Operations.png)
 
 ### Marketing Performance
 - Campaign cost and conversion trends
 - Cost per Conversion
 - Campaign-level efficiency indicators
+![Marketing Performance](screenshots/Marketing_Performance.png)
 
 Each page is designed to answer specific business questions, avoiding metric duplication and visual clutter.
 
