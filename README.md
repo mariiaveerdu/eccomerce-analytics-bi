@@ -75,7 +75,7 @@ Cost per Conversion indicates the average marketing cost required to generate a 
 - Revenue by product category
 - Top products by revenue
 - Return rate by product category
-![Products & Operations](screenshots/Products_Operations.png)
+![Products & Operations](screenshots/Product_Operations.png)
 
 ### Marketing Performance
 - Campaign cost and conversion trends
